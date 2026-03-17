@@ -46,3 +46,10 @@
     font-weight: 900;
     margin-left: 3px;
 }
+
+#Options{
+    height: 30px;
+    width: 50px;
+    border-radius: 5px;
+    background-color: rgba(255, 255, 255, 0.816);
+}
